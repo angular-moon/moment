@@ -1,0 +1,6 @@
+{
+    "version": "2.10.3",
+    "description": "JavaScript 日期处理类库",
+    "name": "moment",
+    "main": "moment.js"
+}
